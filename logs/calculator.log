@@ -1,0 +1,8 @@
+2025-10-31 11:28:23,250 [INFO] calculator: ✅ Logger test successful
+2025-11-01 11:58:58,989 [INFO] calculator: Performed add(10.0, 5.0) = 15.0
+2025-11-01 11:58:58,994 [INFO] calculator: Performed power(2.0, 3.0) = 8.0
+2025-11-01 12:02:23,574 [INFO] calculator: Performed add(10.0, 5.0) = 15.0
+2025-11-01 12:02:23,576 [INFO] calculator: Performed power(2.0, 3.0) = 8.0
+2025-11-01 12:05:40,983 [INFO] calculator: Performed add(2.0, 3.0) = 5.0
+2025-11-01 12:05:47,253 [INFO] calculator: Performed add(1.4, 1.2) = 2.5999999999999996
+2025-11-01 12:05:54,843 [INFO] calculator: Performed power(2.0, 3.0) = 8.0

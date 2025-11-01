@@ -1,0 +1,11 @@
+# Core dependencies
+python-dotenv==1.0.1
+pandas==2.2.2
+colorama==0.4.6
+
+# Testing dependencies
+pytest==8.4.2
+pytest-cov==7.0.0
+
+# Linting (optional but recommended)
+flake8==7.1.1
