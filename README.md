@@ -31,10 +31,10 @@ This project also integrates **CI/CD automation with GitHub Actions** and achiev
 ```
 | Pattern | Purpose |
 |----------|----------|
-| **Factory** | Creates operation instances dynamically |
-| **Observer** | Automatically logs and saves calculations |
-| **Memento** | Enables undo/redo functionality |
-| **REPL (Interactive Loop)** | Provides an interactive command-line experience |
+| Factory| Creates operation instances dynamically |
+| Observer | Automatically logs and saves calculations |
+| Memento | Enables undo/redo functionality |
+| REPL (Interactive Loop) | Provides an interactive command-line experience |
 ```
 
 
@@ -141,7 +141,8 @@ Undone: power(2.0, 3.0) = 8.0
 calc> redo
 Redone: power(2.0, 3.0) = 8.0
 ```
-** Testing & Coverage**
+
+Testing & Coverage
 ```
 Run all tests with coverage:
 
@@ -185,6 +186,7 @@ TOTAL                         185      0   100%
 Required test coverage of 100% reached. Total coverage: 100.00%
 ============================================ 21 passed in 0.52s ============================================
 ```
+
 
 
 
