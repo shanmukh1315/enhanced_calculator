@@ -1,8 +1,7 @@
 [run]
 omit =
-    */__init__.py
+    app/repl.py
 
 [report]
 show_missing = True
 skip_covered = True
-precision = 2
